@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#autores, #resultados {
+    margin: 20px 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+#autores li, #resultados li {
+    background-color: #fff;
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+#acciones {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#acciones button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
